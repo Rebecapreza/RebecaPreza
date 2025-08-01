@@ -1,4 +1,4 @@
-# Hi, my name is Rebeca
+# Hi, my name is Rebeca 🎀
 
 - 🔭 I am currently working in systems development at Bosch Brazil.
 
@@ -11,7 +11,7 @@
 
 
 
-## Technologies
+## 🌐 Technologies
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
@@ -48,7 +48,7 @@ In the overview below, you'll find my experiences in the technology world:
   </tr>
 </table>
 
-## Contacts
+## 📞 Contacts
 <div style="display: flex; gap: 12px; align-items: center; justify-content: center; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/rebeca-preza-5b157a357/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
