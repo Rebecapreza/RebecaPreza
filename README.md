@@ -3,12 +3,13 @@
 
 - 🔭 I am currently working in systems development at Bosch Brazil.
 
-  <div>
+<div>
   <a href="https://github.com/Rebecapreza" target="_blank">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebecapreza&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rebecapreza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebecapreza&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rebecapreza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
 
 
 ## Technologies
