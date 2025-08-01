@@ -39,7 +39,7 @@ Na visão geral abaixo você encontrará minhas experiências no mundo da tecnol
 <table>
   <tr>
     <td width="100">
-      <img src="https://semanacet.campinas.sp.gov.br/sites/semanacet.campinas.sp.gov.br/files/styles/foto-programacao/public/programacao/imagens/senai-roberto-mange1.jpeg?itok=5l9brmkk&c=f4c948e498fae4ccab3c5875bb2f365a" width="80">
+      <img src="https://www.tvbrumais.com.br/imagens/clientes/1646680827_logo.jpg" width="80">
     </td>
     <td>
       <strong>Ensino Médio com Técnico em Mecatrônica</strong><br>
