@@ -39,13 +39,13 @@ Na visão geral abaixo você encontrará minhas experiências no mundo da tecnol
 <table>
   <tr>
     <td width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Etec.svg/2560px-Etec.svg.png" width="80">
+      <img src="https://semanacet.campinas.sp.gov.br/sites/semanacet.campinas.sp.gov.br/files/styles/foto-programacao/public/programacao/imagens/senai-roberto-mange1.jpeg?itok=5l9brmkk&c=f4c948e498fae4ccab3c5875bb2f365a" width="80">
     </td>
     <td>
-      <strong>Ensino Médio com Técnico em Desenvolvimento de Sistemas</strong><br>
-      <a href="https://www.etec.sp.gov.br" target="_blank">Etec de Hortolândia</a> • 2022 – 2024<br>
+      <strong>Ensino Médio com Técnico em Mecatrônica</strong><br>
+      <a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2023 – 2024<br>
       <b>Linguagens & Tecnologias:</b> 
-      <code>C</code> <code>C++</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS</code> <code>MySQL</code> <code>React</code> <code>React Native</code> <code>NodeJS</code>
+      <code>Python</code> <code>Arduino</code> <code>CLP</code>
     </td>
   </tr>
   <tr>
