@@ -1,4 +1,9 @@
-# Hi, my name is Rebeca ! 
+<h2><em>Rebeca Preza</em></h2>
+<hr>
+<p style="border-left: 3px solid #ccc; padding-left: 10px; margin-top: 10px;">
+  <span style="color: #58a6ff;">18 years</span><br>
+  <span>Bosch Brazil, Digital Solutions</span>
+</p>
 ## Welcome to my GitHub profile 👋
 
 - 🔭 I am currently working in systems development at Bosch Brazil.
