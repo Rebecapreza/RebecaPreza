@@ -19,9 +19,9 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 
-## 📚 Minhas Experiências
+## 📚 My Experiences
 
-Na visão geral abaixo você encontrará minhas experiências no mundo da tecnologia:
+In the overview below, you'll find my experiences in the technology world:
 
 <table>
   <tr>
