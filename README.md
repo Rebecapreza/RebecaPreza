@@ -1,5 +1,5 @@
-# Olá, me chamo Rebeca ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Hi, my name is Rebeca ! 
+## Welcome to my GitHub profile 👋
 
 - 🔭 I am currently working in systems development at Bosch Brazil.
 
