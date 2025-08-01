@@ -50,7 +50,7 @@ Na visão geral abaixo você encontrará minhas experiências no mundo da tecnol
   </tr>
   <tr>
     <td width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bosch-logo.svg/2560px-Bosch-logo.svg.png" width="80">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFXGfJGDomMP9aSV_vJi2w_m17dVyR8udPA&s" width="80">
     </td>
     <td>
       <strong>Aprendiz de Soluções Digitais</strong><br>
