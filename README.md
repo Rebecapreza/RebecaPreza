@@ -29,9 +29,9 @@ In the overview below, you'll find my experiences in the technology world:
       <img src="https://www.tvbrumais.com.br/imagens/clientes/1646680827_logo.jpg" width="80">
     </td>
     <td>
-      <strong>Ensino Médio com Técnico em Mecatrônica</strong><br>
-      <a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2023 – 2024<br>
-      <b>Linguagens & Tecnologias:</b> 
+      <strong>High school with mechatronics</strong><br>
+      <a href="https://sp.senai.br/unidade/campinas/" target="_blank">SENAI "Roberto Mange" School and College of Technology</a> • 2023 – 2024<br>
+      <b>Languages and technology:</b> 
       <code>Python</code> <code>Arduino</code> <code>CLP</code>
     </td>
   </tr>
@@ -40,9 +40,9 @@ In the overview below, you'll find my experiences in the technology world:
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFXGfJGDomMP9aSV_vJi2w_m17dVyR8udPA&s" width="80">
     </td>
     <td>
-      <strong>Soluções Digitais</strong><br>
+      <strong>Digital Solutions</strong><br>
       <a href="https://www.bosch.com.br/" target="_blank">Bosch Campinas</a> • Aprendiz<br>
-      <b>Linguagens & Tecnologias:</b> 
+      <b>Languages & Technologies:</b> 
       <code>Python</code> <code>Java</code> <code>React</code> <code>HTML5</code> <code>CSS</code> <code>JavaScript</code>
     </td>
   </tr>
