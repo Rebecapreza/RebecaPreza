@@ -40,7 +40,7 @@ In the overview below, you'll find my experiences in the technology world:
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFXGfJGDomMP9aSV_vJi2w_m17dVyR8udPA&s" width="80">
     </td>
     <td>
-      <strong>Digital Solution</strong><br>
+      <strong>Digital Solutions</strong><br>
       <a href="https://www.bosch.com.br/" target="_blank">Bosch Campinas</a> • Aprendiz<br>
       <b>Languages & Technologies:</b> 
       <code>Python</code> <code>Java</code> <code>React</code> <code>HTML5</code> <code>CSS</code> <code>JavaScript</code>
