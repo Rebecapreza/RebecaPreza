@@ -5,7 +5,7 @@
 I’m a technology student with a strong background in **mechatronics and software development**, currently working with **digital solutions at Bosch Brazil**.  
 I enjoy building practical solutions, learning new technologies, and combining software with real-world applications.
 
----
+
 
 ## 💻 Tech Stack  
 
@@ -17,7 +17,7 @@ I enjoy building practical solutions, learning new technologies, and combining s
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
----
+
 
 ## 📚 Experience  
 
@@ -53,7 +53,7 @@ I enjoy building practical solutions, learning new technologies, and combining s
   </tr>
 </table>
 
----
+
 
 ## 📞 Contact  
 
@@ -69,6 +69,6 @@ I enjoy building practical solutions, learning new technologies, and combining s
   </a>
 </div>
 
----
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
